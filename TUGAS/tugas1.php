@@ -1,20 +1,19 @@
 <?php
 $m_fruits = [
-    ["id" => 1,"name" => "Alpukat", "color" => "Hijau", "stock" => 120, "price" => 15000, "description" => "Buah alpukat adalah yang kaya akan manfaatnya, buah alpukat termasuk jenis buah yang banyak digemari
+    ["id" => 1,"name" => "Alpukat", "color" => "Hijau", "stock" => 120, "price" => 35000, "description" => "Buah alpukat adalah yang kaya akan manfaatnya, buah alpukat termasuk jenis buah yang banyak digemari
                                                                                                         karena perpaduan rasa dan nutrisi tidak hanya memiliki kandungan lemak yang baik bagi tubuh, alpukat 
                                                                                                         juga memiliki kandungan vitamin lainnya yang bermanfaat, seperti Vitamin E, Vitamin K, Vitamin B5, Vitamin B6."],
-    ["id" => 2, "name" => "Semangka", "color" => "Hijau gairs hitam", "stock" => 125, "price" => 28000, "description" => "Buah Semangka adalah salah satu buah favorit massyarakat karena bentuk buahnya yang unik akan garis hitam diluarnya,
+    ["id" => 2, "name" => "Semangka", "color" => "Hijau gairs hitam", "stock" => 125, "price" => 15000, "description" => "Buah Semangka adalah salah satu buah favorit massyarakat karena bentuk buahnya yang unik akan garis hitam diluarnya,
                                                                                                         Buah semangka ini juga mempunyai kandungan air yang hampir 92%, Sehingga sangat menyegarkan untuk dikonsumsi,
                                                                                                         Buah ini juga mempunyai kandungan vitamin dan nutrisi seperti vitamin A, vitamin C, vitamin B6 dan lainnya "],
-    ["id" => 3,"name" => "Kurma", "color" => "Coklat", "stock" => 100, "price" =>20000, "description" => "buah kurma mempunyai tekstur dan rasa yang lembut dan manis, kulit luaran kurma yang sedikit mengkerut dan beberapa buah kurma
+    ["id" => 3,"name" => "Kurma", "color" => "Coklat", "stock" => 100, "price" =>100000, "description" => "buah kurma mempunyai tekstur dan rasa yang lembut dan manis, kulit luaran kurma yang sedikit mengkerut dan beberapa buah kurma
                                                                                                         memiliki biji dan ada sebagian yang hampir tidak keliatan bijinya, buah kurma juga mempunyai nutrisi yang banyak termasuk serat, vitamin A,vitamin B, vitamin K, dan
                                                                                                         mineral seperti kalium,magnesium,Dan tembaga, serta gula yang alami"],
-    ["id" => 4,"name" => "Kurma", "color" => "Coklat", "stock" => 8, "price" => 20000, "description" => "Buah Semangka adalah salah satu buah favorit massyarakat karena bentuk buahnya yang unik akan garis hitam diluarnya,
-                                                                                                        Buah semangka ini juga mempunyai kandungan air yang hampir 92%, Sehingga sangat menyegarkan untuk dikonsumsi,
-                                                                                                        Buah ini juga mempunyai kandungan vitamin dan nutrisi seperti vitamin A, vitamin C, vitamin B6 dan lainnya"],
-    ["id" => 5,"name" => "Kurma", "color" => "Coklat", "stock" => 8, "price" => 20000, "description" => "Buah Semangka adalah salah satu buah favorit massyarakat karena bentuk buahnya yang unik akan garis hitam diluarnya,
-                                                                                                        Buah semangka ini juga mempunyai kandungan air yang hampir 92%, Sehingga sangat menyegarkan untuk dikonsumsi,
-                                                                                                        Buah ini juga mempunyai kandungan vitamin dan nutrisi seperti vitamin A, vitamin C, vitamin B6 dan lainnya"]
+    ["id" => 4,"name" => "jeruk", "color" => "Oren", "stock" => 165, "price" => 19000, "description" => "buah jeruk mempunyai daging yang mengandung banyak air dan buah jeruk juga mempunyai banyak manfaat bagi kesehatan tubuh seperti
+                                                                                                        meningkatkan fungsi otak, jeruk mengandung Vitamin C, Kallium, Folat, dan Antioksidan, dan Membantu menjaga tekanan darah"],
+    ["id" => 5,"name" => "Melon", "color" => "Hijau", "stock" => 250, "price" => 10000, "description" => "Buah melon memiliki bentuk bulat dan kulitnya berwarna hijau atau kuning tergantung pada jenisnya, daging buahnya berwarna oren atau putih
+                                                                                                        ,dan memiliki tekstur yang lembut serta rasa yang manis dan segar. buah melon mengandung banyak air, sehingga sangat menyegarkan ketika dimakan dalam keadaan dingin
+                                                                                                        buah ini juga bisa dijadikan hidangan penutup dan di jadi kan jus melon.selain rasanya yang enak, melon juga kaya akan Nutrisi seperti Vitamin C, Vitamin A dan Kalium"]
 ];
 ?>
 
@@ -60,4 +59,3 @@ $m_fruits = [
     </div>
 </body>
 </html>
-cornflowerblue
